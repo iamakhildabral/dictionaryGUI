@@ -1,0 +1,2 @@
+ttkbootstrap==8.2.0
+PyDictionary==2.0.1
